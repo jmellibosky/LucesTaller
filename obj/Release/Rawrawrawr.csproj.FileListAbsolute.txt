@@ -1,0 +1,43 @@
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\Rawrawrawr.exe.config
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\Rawrawrawr.exe
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\Rawrawrawr.pdb
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\ArduinoDriver.dll
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\ArduinoUploader.dll
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\IntelHexFormatReader.dll
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\NLog.dll
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\RJCP.SerialPortStream.dll
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\NLog.xml
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\RJCP.SerialPortStream.pdb
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\bin\Release\RJCP.SerialPortStream.xml
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\obj\Release\Rawrawrawr.csprojAssemblyReference.cache
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\obj\Release\Rawrawrawr.Acoplables.frmDepto.resources
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\obj\Release\Rawrawrawr.Acoplables.frmTaller.resources
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\obj\Release\Rawrawrawr.frmContenedor.resources
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\obj\Release\Rawrawrawr.Properties.Resources.resources
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\obj\Release\Rawrawrawr.csproj.GenerateResource.cache
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\obj\Release\Rawrawrawr.csproj.CopyComplete
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\obj\Release\Rawrawrawr.exe
+C:\Users\musi\source\repos\Rawrawrawr\Rawrawrawr\obj\Release\Rawrawrawr.pdb
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\Rawrawrawr.exe.config
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\Rawrawrawr.exe
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\Rawrawrawr.pdb
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\ArduinoDriver.dll
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\ArduinoUploader.dll
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\IntelHexFormatReader.dll
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\Microsoft.Win32.Registry.dll
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\NLog.dll
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\RJCP.SerialPortStream.dll
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\NLog.xml
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\RJCP.SerialPortStream.pdb
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\bin\Release\RJCP.SerialPortStream.xml
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\obj\Release\Rawrawrawr.csprojAssemblyReference.cache
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\obj\Release\Rawrawrawr.Acoplables.frmDepto.resources
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\obj\Release\Rawrawrawr.Acoplables.frmTaller.resources
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\obj\Release\Rawrawrawr.frmContenedor.resources
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\obj\Release\Rawrawrawr.Properties.Resources.resources
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\obj\Release\Rawrawrawr.csproj.GenerateResource.cache
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\obj\Release\Rawrawrawr.csproj.CoreCompileInputs.cache
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\obj\Release\Rawrawrawr.csproj.CopyComplete
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\obj\Release\Rawrawrawr.exe
+B:\escritorio\Nueva carpeta (4)\Rawrawrawr\obj\Release\Rawrawrawr.pdb
